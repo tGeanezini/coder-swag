@@ -13,7 +13,8 @@
             android:text="Categories"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent" android:layout_marginLeft="16dp" android:layout_marginTop="16dp"
-            android:textSize="18sp" android:id="@+id/textView"/>
+            android:textSize="24sp" android:id="@+id/textView" android:textStyle="bold"
+            android:textColor="@android:color/black"/>
     <ListView
             android:layout_width="0dp"
             android:layout_height="0dp" android:layout_marginTop="8dp"
