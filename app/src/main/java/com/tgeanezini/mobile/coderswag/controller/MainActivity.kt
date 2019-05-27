@@ -1,7 +1,8 @@
-package com.tgeanezini.mobile.coderswag
+package com.tgeanezini.mobile.coderswag.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.tgeanezini.mobile.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
